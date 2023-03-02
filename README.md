@@ -6,5 +6,7 @@
 | Material UI (React)   | Supabase                   | .NET (Console only)| Flutter        |
 | Chakra UI             | Next.JS                    | Python             | Python         |
 | Next.JS               |                            |                    |                |
+<div align="center">
 
 ![Mr. Quantum's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrquantumoff&theme=transparent&langs_count=8)
+</div>
