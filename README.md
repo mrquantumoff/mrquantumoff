@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi, I'm Demir, I live in Istanbul, Turkiye and I love writing code.
-[![wakatime](https://wakatime.com/badge/user/0d89d581-d4f6-44ab-8ad2-18581c59286b.svg)](https://wakatime.com/@0d89d581-d4f6-44ab-8ad2-18581c59286b)
+[![wakatime](https://wakatime.com/badge/user/0d89d581-d4f6-44ab-8ad2-18581c59286b.svg)](https://mrquantumoff.dev)
 | Frontend              | Backend                    | Native              | Cross-platform |
 | --------------------  | -------------------------- | ------------------- | -------------- |
 | React                 | Rust (Rocket)              | Tauri               | Tauri          |
