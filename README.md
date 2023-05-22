@@ -7,7 +7,7 @@
 | React                 | Rust (Rocket)              | Tauri               | Tauri          |
 | Material UI (React)   | Supabase                   | .NET (Console only) | Flutter        |
 | Chakra UI             | Next.JS                    | Python              | Python         |
-| Next.JS               |                            |                     |                |
+| Next.JS               | Rust (Actix)               |                     |                |
 
 <!-- ![Mr. Quantum's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrquantumoff&theme=transparent&langs_count=5) -->
 </div>
