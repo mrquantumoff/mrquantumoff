@@ -9,5 +9,5 @@
 | Chakra UI             | Next.JS                    | Python              | Python         |
 | Next.JS               | Rust (Actix)               |                     |                |
 
-<!-- ![Mr. Quantum's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrquantumoff&theme=transparent&langs_count=5) -->
+![Mr. Quantum's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrquantumoff&theme=transparent&langs_count=5)
 </div>
