@@ -1,7 +1,5 @@
 <div align="center">
-
-<a href="https://mrquantumoff.dev">My website</a>
-
+  
 ### Hi, I'm Demir, 
 https://mrquantumoff.dev
 
